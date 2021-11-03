@@ -1,6 +1,6 @@
 # [English Version](./docs/README-en.md)
 
-# PowerVim
+# PowerVim（转自https://github.com/youngyangyang04/PowerVim）
 
 这套vim配置我已经打磨了将近四年，不断调整优化，已经可以完全满足工业级打开的需求了。所以我给它起名为PowerVim，一个真正强大的vim。
 
